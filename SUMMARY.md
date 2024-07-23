@@ -1,12 +1,10 @@
 # Table of contents
 
-## Group 1
+## DEV history
 
-* [Page](README.md)
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
-* [Page 3](group-1/page-3.md)
+* [JAVA](README.md)
+  * [Page](dev-history/java/page.md)
 
-## Group 2
+## Design Pattern
 
-* [Page 4](group-2/page-4.md)
+* [싱글톤 패턴](design-pattern/undefined.md)
