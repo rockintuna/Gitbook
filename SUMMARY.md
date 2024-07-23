@@ -1,4 +1,3 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-
+* [이정인의 페이지](README.md)
