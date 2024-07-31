@@ -3,6 +3,7 @@
 ## Design Pattern
 
 * [싱글톤 패턴](README.md)
+* [팩토리 메서드 패턴](design-pattern/undefined-1.md)
 
 ## Spring
 
