@@ -12,4 +12,8 @@
 
 ## ELK
 
-* [Kibana vs Grafana](elk/kibana-vs-grafana.md)
+* [Kibana vs Grafana](elk/kibana-vs-grafana.md)
+
+## Kubernates
+
+* [Coredns에서 외부 DNS 서버 추가하기](kubernates/coredns-dns.md)
