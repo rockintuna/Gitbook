@@ -17,3 +17,4 @@
 ## Kubernates
 
 * [Coredns에서 외부 DNS 서버 추가하기](kubernates/coredns-dns.md)
+* [Coredns host unreachable](kubernates/coredns-host-unreachable.md)
