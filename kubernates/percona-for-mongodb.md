@@ -13,7 +13,7 @@ MongoDB Community Edition 기반으로 구축되었으며 몇가지 엔터프라
 
 **Mongodb Sharded Cluster의 요소**
 
-\![https://www.mongodb.com/ko-kr/docs/manual/images/sharded-cluster-production-architecture.bakedsvg.svg](https://www.mongodb.com/ko-kr/docs/manual/images/sharded-cluster-production-architecture.bakedsvg.svg)
+![](<../.gitbook/assets/image (2).png>)
 
 Shard(replica set) : 데이터의 하위 집합(샤딩된 집합)을 포함하는
 
